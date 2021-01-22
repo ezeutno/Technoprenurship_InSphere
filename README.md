@@ -1,4 +1,4 @@
-# techno_insphere
+# Technoprenurship Inshpere
 
 A new Flutter project.
 
